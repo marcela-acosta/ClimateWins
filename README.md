@@ -27,5 +27,6 @@ ClimateWins aims to use machine learning to predict weather conditions with data
 ## Repository Contents
 1. **Project Management:** Project brief
 2. **Scripts:** Python scripts for analysis
+3. **Data Sets**
 
 **Note:** Datasets are not included due to their size but can be found in the project brief.
